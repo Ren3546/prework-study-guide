@@ -2,8 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 The main idea of this project is to simplify and organize helpful information for learning the basics of HTML, CSS, and JavaScript. I built this project in order to establish a strong base in my journey to learn coding, and to have a useful tool to look back to whenever I need help. This solves the issue of having too much info at one time that can be disorganized and confusing especially for learners new to coding. It creates a space that is organized and is pleasant to look at. From doing this project I have learned coding is specific and detailed, but also extremely flexible and lets you create pretty much anything you can think of.
 
 ## Installation
